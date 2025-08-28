@@ -3,7 +3,7 @@ Este projeto tem como objetivo principal ajudar iniciantes a entender os conceit
 
 ## O que você vai encontrar?
 
-- Estrutura básica de um documento HTML5
+- Estrutura básica de um documento HTML5.
 
 - Uso correto de tags semânticas
 
